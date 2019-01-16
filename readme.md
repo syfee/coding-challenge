@@ -61,9 +61,8 @@ The user clicks on the avatar to open a popover which allows the user to choose 
 
 (you may adjust the paths to your needs of course)
 
-* Requested browser compatibility: IE11 and up, current versions of Chrome, FF, Safari
+* Requested browser compatibility: current versions of Chrome
 * You may split up the main component in as many sub-components as you see fit
-* The whole component must also be fully usable when just using a keyboard
 * Think of it as a component that will end up in a large, scalable react app. Consider this when writing HTML and CSS as well.
 * You're free to use as many third party JS libraries that you see fit
 * You're NOT allowed to use any third party CSS libraries
@@ -74,19 +73,6 @@ The user clicks on the avatar to open a popover which allows the user to choose 
 ### Lots of extra :gem:s if you provide
 
 * A suite of unit tests written for this component using your favourite testing toolchain
-
-### How to submit your results:
-
-* The results have to be shared as a git repository
-* You can either create a private repository on your favourite git hosting provider (github, gitlab, bitbucket) and then give access to
-  * chris@colony.io
-  * raul@colony.io
-* Or create a public repository and send the link to both of these email addresses
-* Or send the whole repository, zipped (including the `.git` directory) to both of these email addresses
-* Important note: please only submit your work when it is completely done!
-
-Happy coding! :heart:
-
 
 ### Attributions
 
